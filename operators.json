@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Movistar",
+    "clients": [
+      {
+        "id": 1212,
+        "phoneNumber": 3213453423,
+        "amount": 12000.0
+      }
+    ]
+  },
+  {
+    "name": "Claro",
+    "clients": [
+      {
+        "id": 1234,
+        "phoneNumber": 3232342321,
+        "amount": 10000.0
+      },
+      {
+        "id": 9813,
+        "phoneNumber": 3234567890,
+        "amount": 20000.0
+      }
+    ]
+  },
+  {
+    "name": "Tigo",
+    "clients": [
+      {
+        "id": 12334,
+        "phoneNumber": 3243456789,
+        "amount": 15000.0
+      }
+    ]
+  },
+  {
+    "name": "ETB",
+    "clients": [
+      {
+        "id": 2342,
+        "phoneNumber": 3002342134,
+        "amount": 50000.0
+      }
+    ]
+  }
+]
